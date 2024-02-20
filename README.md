@@ -9,7 +9,7 @@
 ## My Stack:
 
 <center>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" title="C" height="30" /><img src="https://cdn.hackr.io/uploads/topics/1507565940Mt96nRTIF8.png" alt="Assembly Language" title="Assembly Language" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="POSIX Shell Script (e.g. Bash)" title="POSIX Shell Scripting (e.g. Bash)" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" title="Lua" height="30"/><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Slackware_logo.svg" alt="Slackware Linux" title="Slackware Linux" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="Vim" title="Vim" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" title="C" height="100" /><img src="https://cdn.hackr.io/uploads/topics/1507565940Mt96nRTIF8.png" alt="Assembly Language" title="Assembly Language" height="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="POSIX Shell Script (e.g. Bash)" title="POSIX Shell Scripting (e.g. Bash)" height="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" title="Lua" height="100"/><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Slackware_logo.svg" alt="Slackware Linux" title="Slackware Linux" height="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="Vim" title="Vim" height="100"/>
 
 
 
@@ -24,5 +24,8 @@ I can also write code in JavaScript, PHP, Java, Python. I dislike these language
 ## Currently Studying:
 
 <center>
-<a href="https://www.cs.bu.edu/~hwxi/atslangweb/"><img src="https://www.cs.bu.edu/~hwxi/atslangweb/MYDATA/theLogo.png" alt="ATS2" title="ATS2" height="30"/></a>
+<a href="https://www.cs.bu.edu/~hwxi/atslangweb/"><img src="https://www.cs.bu.edu/~hwxi/atslangweb/MYDATA/theLogo.png" alt="ATS2" title="ATS2" height="100"/></a>
 </center>
+
+
+<style>img{float:left;display:inline;}</style>
