@@ -17,7 +17,7 @@
 <img src="https://cdn.hackr.io/uploads/topics/1507565940Mt96nRTIF8.png" alt="Assembly Language" title="Assembly Language" height="100"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="POSIX Shell Script (e.g. Bash)" title="POSIX Shell Scripting (e.g. Bash)" height="100"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" title="Lua" height="100"/>&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Slackware_logo.svg" alt="Slackware Linux" title="Slackware Linux" height="100"/>&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Slackware_logo.svg/64px-Slackware_logo.svg.png" alt="Slackware Linux" title="Slackware Linux" height="100"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="Vim" title="Vim" height="100"/>
 
 <br/><br/>
